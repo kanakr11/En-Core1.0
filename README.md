@@ -12,3 +12,5 @@ https://github.com/user-attachments/assets/536d6fd5-d2d9-428e-89c5-60f9322d7666
 [Buck convertor.docx](https://github.com/user-attachments/files/17158984/Buck.convertor.docx)
 ### Simulation Link
 https://youtu.be/5ZuOfhRc0EY
+## OUTPUT SIMULATION (5V)
+https://github.com/user-attachments/assets/e415137b-1460-4eec-800e-2857a3d6717f
