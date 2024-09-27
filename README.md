@@ -1,7 +1,7 @@
 # En-Core1.0
-KiCad of Schematic Design, Simulation and PCB Design of IPD Group 28.
+## KiCad of Schematic Design, Simulation and PCB Design of IPD Group 28.
 ## Schematic File and Image
-# [Schematic.pdf](https://github.com/user-attachments/files/17158844/Schematic.pdf)
+#### [Schematic.pdf](https://github.com/user-attachments/files/17158844/Schematic.pdf)
 ![Schematic png](https://github.com/user-attachments/assets/73052d20-8b18-42bb-90da-ae3b8b686331)
 ## PCB Design
 ![pcb design image](https://github.com/user-attachments/assets/d98b058c-5a0d-439b-b211-92fa2e865b19)
